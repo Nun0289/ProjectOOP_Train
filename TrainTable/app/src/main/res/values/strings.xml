@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TrainTable</string>
+    <string name="thaitrain">ThaiTrain</string>
+    <string name="bts">BTS</string>
+    <string name="mrt">MRT</string>
+    <string name="airport_rail_link">Airport Rail Link</string>
 </resources>
