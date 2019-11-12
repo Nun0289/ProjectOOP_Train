@@ -73,7 +73,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="10dp"
             android:foreground="@drawable/tts"
-            app:cardBackgroundColor="#F44336"
+            app:cardBackgroundColor="#FFC107"
             app:cardCornerRadius="8dp"
             app:cardElevation="6dp"
             app:layout_columnWeight="1"
